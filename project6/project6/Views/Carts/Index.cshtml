@@ -1,0 +1,79 @@
+﻿@model IEnumerable<project6.Models.Cart>
+@{
+    ViewBag.Title = "Cart";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    int currentUserId = Convert.ToInt32(Session["id"]);
+}
+
+<div class="container mt-4">
+    <h2 class="mb-4">Your Shopping Cart</h2>
+    <div class="table-responsive">
+        <table class="table table-bordered table-hover align-middle">
+            <thead class="thead-light">
+                <!-- تغيير إلى thead-light للحصول على خلفية بيضاء -->
+                <tr>
+                    <th scope="col">Product</th>
+                    <th scope="col">Price</th>
+                    <th scope="col">Quantity</th>
+                    <th scope="col">Total</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    if (item.User != null && item.Product != null && item.User.user_id == currentUserId)
+                    {
+                        <tr>
+                            <td class="align-middle">@Html.DisplayFor(modelItem => item.Product.product_name)</td>
+                            <td class="align-middle">@Html.DisplayFor(modelItem => item.Product.price)</td>
+                            <td>
+                                <div class="input-group mb-3" style="max-width: 120px;">
+                                    <div class="input-group-prepend">
+                                        @Html.ActionLink("−", "UpdateCart", new { id = item.cart_id, quantity = item.quantity - 1 }, new { @class = "btn btn-outline-primary", style = "color: #7971ea; border-color: #7971ea;" })
+                                    </div>
+                                    <input type="text" class="form-control text-center" value="@item.quantity" readonly style="max-width: 50px; border-color: #7971ea;" />
+                                    <div class="input-group-append">
+                                        @Html.ActionLink("+", "UpdateCart", new { id = item.cart_id, quantity = item.quantity + 1 }, new { @class = "btn btn-outline-primary", style = "color: #7971ea; border-color: #7971ea;" })
+                                    </div>
+                                </div>
+                            </td>
+                            <td class="align-middle">@(item.Product.price * item.quantity)</td>
+                        </tr>
+                    }
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+
+<style>
+    .table {
+        background-color: white; /* لون خلفية الجدول */
+        border: 2px solid #7971ea; /* حدود الجدول */
+    }
+
+    .thead-light th {
+        background-color: white; /* تغيير لون خلفية رأس الجدول إلى الأبيض */
+        color: #7971ea; /* لون النص */
+        border-bottom: 2px solid #7971ea; /* حدود أسفل الرأس */
+    }
+
+    .table-hover tbody tr:hover {
+        background-color: #f1f1f1;
+    }
+
+    .input-group-sm .btn-outline-secondary {
+        border-color: #7971ea;
+        color: #7971ea;
+    }
+
+        .input-group-sm .btn-outline-secondary:hover {
+            background-color: #7971ea;
+            color: white;
+        }
+
+    h2 {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        color: #7971ea;
+    }
+</style>

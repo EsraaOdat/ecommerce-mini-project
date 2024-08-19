@@ -1,0 +1,47 @@
+﻿@model project6.Models.User
+
+@{
+    ViewBag.Title = "Register";
+}
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="card" style="max-width: 450px; margin: auto; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); padding: 20px;">
+        <div class="card-body">
+            <h4 class="text-center mb-4">Register</h4>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.username, htmlAttributes: new { @class = "control-label" })
+                @Html.EditorFor(model => model.username, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.username, "", new { @class = "text-danger" })
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.email, htmlAttributes: new { @class = "control-label" })
+                @Html.EditorFor(model => model.email, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.email, "", new { @class = "text-danger" })
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.password, htmlAttributes: new { @class = "control-label" })
+                @Html.EditorFor(model => model.password, new { htmlAttributes = new { @class = "form-control", type = "password" } })
+                @Html.ValidationMessageFor(model => model.password, "", new { @class = "text-danger" })
+            </div>
+
+            <div class="form-group">
+                <label for="confermPassword" class="control-label">Confirm Password</label>
+                <input type="password" name="confermPassword" id="confermPassword" class="form-control" />
+            </div>
+
+            <div class="form-group text-center">
+                <input type="submit" value="Create" class="btn btn-primary btn-block" />
+            </div>
+        </div>
+    </div>
+}
+
+<div class="text-center" style="margin-top: 20px;">
+    @Html.ActionLink("Back to List", "Index", null, new { @class = "btn btn-link" })
+</div>

@@ -1,0 +1,60 @@
+﻿@model IEnumerable<project6.Models.Product>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+
+
+
+<section style="background-color: #eee;">
+    <div class="text-center container py-5">
+        <h4 class="mt-4 mb-5"><strong>Product</strong></h4>
+
+        <div class="row">
+            @foreach (var item in Model)
+            {
+                <div class="col-lg-4 col-md-6 mb-4">
+                    <a class="block-2-item" href="@Url.Action("Details", new { id = item.product_id })" style="text-decoration: none;">
+                        <div class="card">
+                            <div class="bg-image hover-zoom ripple ripple-surface ripple-surface-light" data-mdb-ripple-color="light">
+                                <img src="@item.image" class="w-100" style="height: 350px; object-fit: cover;" />
+                                <div class="hover-overlay">
+                                    <div class="mask" style="background-color: rgba(251, 251, 251, 0.15);"></div>
+                                </div>
+                            </div>
+                            <div class="card-body">
+
+                                <h5 class="card-title mb-3">
+                                    @Html.DisplayFor(modelItem => item.product_name)
+                                </h5>
+                                <p class="text-reset">
+                                    @Html.DisplayFor(modelItem => item.Category.category_name)
+                                </p>
+                                <h6 class="mb-3">
+                                    @Html.DisplayFor(modelItem => item.price)
+                                </h6>
+                                @using (Html.BeginForm("AddToCart", "Products", FormMethod.Post))
+                                {
+                                    @Html.Hidden("product_id", item.product_id)
+                            <div class="d-flex align-items-center">
+                                <input type="number" name="quantity" value="1" min="1" class="form-control me-3" style="width: 60px;" />
+                                        &nbsp&nbsp
+                                <input type="submit" value="Add to Cart" class="btn btn-primary" />
+                            </div>
+
+
+                                }
+
+
+
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            }
+        </div>
+    </div>
+</section>
+
+

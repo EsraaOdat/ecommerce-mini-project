@@ -1,0 +1,46 @@
+﻿@model project6.Models.User
+
+@using (Html.BeginForm("EditProfile", "Users", FormMethod.Post))
+{
+    <div class="container">
+        <h2>Edit Profile</h2>
+
+        <!-- User Name Field -->
+        <div class="form-group">
+            <label for="username">User Name</label>
+            <input type="text" id="username" name="username" value="@Model.username" class="form-control" />
+        </div>
+
+        <!-- Email Field -->
+        <div class="form-group">
+            <label for="email">Email</label>
+            <input type="email" id="email" name="email" value="@Model.email" class="form-control" />
+        </div>
+
+        <!-- Phone Field -->
+        <div class="form-group">
+            <label for="phone">Phone</label>
+            <input type="text" id="phone" name="phone" value="@Model.phone" class="form-control" />
+        </div>
+
+        <!-- Current Password Field -->
+        <div class="form-group">
+            <label for="currentPassword">Current Password</label>
+            <input type="password" id="currentPassword" name="currentPassword" class="form-control" required />
+        </div>
+
+        <!-- New Password Field -->
+        <div class="form-group">
+            <label for="newPassword">New Password</label>
+            <input type="password" id="newPassword" name="newPassword" class="form-control" />
+        </div>
+
+        <!-- Confirm New Password Field -->
+        <div class="form-group">
+            <label for="confirmNewPassword">Confirm New Password</label>
+            <input type="password" id="confirmNewPassword" name="confirmNewPassword" class="form-control" />
+        </div>
+
+        <button type="submit" class="btn btn-primary">Save Changes</button>
+    </div>
+}

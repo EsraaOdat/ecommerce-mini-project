@@ -1,0 +1,35 @@
+﻿@model IEnumerable<project6.Models.Order>
+
+<h2>Order History</h2>
+@*
+<table class="table">
+    <thead>
+        <tr>
+            <th>Order ID</th>
+            <th>Order Date</th>
+            <th>Status</th>
+            <th>Total Amount</th>
+            <th>Product Name</th>
+            <th>Quantity</th>
+            <th>Price</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var order in Model)
+        {
+            foreach (var item in order.OrderItems)
+            {
+                <tr>
+                    <td>@order.order_id</td>
+                    <td>@order.order_date.ToString("yyyy-MM-dd")</td>
+                    <td>@order.status</td>
+                    <td>@order.total_amount.ToString("C")</td>
+                    <td>@item.Product.product_name</td>
+                    <td>@item.quantity</td>
+                    <td>@item.price.ToString("C")</td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>
+*@
