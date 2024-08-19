@@ -1,189 +1,189 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Orange\\source\\repos\\project6\\",
+  "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|c:\\users\\orange\\source\\repos\\project6\\project6\\views\\carts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|solutionrelative:project6\\views\\carts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|C:\\Users\\Orange\\source\\repos\\project6\\project6\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|solutionrelative:project6\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|C:\\Users\\Orange\\source\\repos\\project6\\project6\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|solutionrelative:project6\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|c:\\users\\orange\\source\\repos\\project6\\project6\\controllers\\cartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|c:\\users\\orange\\desktop\\project(6)\\project6\\project6\\project6\\views\\carts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|solutionrelative:project6\\views\\carts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|solutionrelative:project6\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\controllers\\cartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|solutionrelative:project6\\controllers\\cartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|C:\\Users\\Orange\\source\\repos\\project6\\project6\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|solutionrelative:project6\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|C:\\Users\\Orange\\source\\repos\\project6\\project6\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|solutionrelative:project6\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|C:\\Users\\Orange\\source\\repos\\project6\\project6\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|solutionrelative:project6\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|C:\\Users\\Orange\\source\\repos\\project6\\project6\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|solutionrelative:project6\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|C:\\Users\\Orange\\source\\repos\\project6\\project6\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|solutionrelative:project6\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|c:\\users\\orange\\source\\repos\\project6\\project6\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|solutionrelative:project6\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|c:\\users\\orange\\source\\repos\\project6\\project6\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|solutionrelative:project6\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|c:\\users\\orange\\source\\repos\\project6\\project6\\views\\orderhistory\\orderhistory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\views\\orderhistory\\orderhistory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|solutionrelative:project6\\views\\orderhistory\\orderhistory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|c:\\users\\orange\\source\\repos\\project6\\project6\\controllers\\orderhistorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\controllers\\orderhistorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|solutionrelative:project6\\controllers\\orderhistorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|c:\\users\\orange\\source\\repos\\project6\\project6\\views\\carts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\views\\carts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|solutionrelative:project6\\views\\carts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|c:\\users\\orange\\source\\repos\\project6\\project6\\views\\carts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\views\\carts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|solutionrelative:project6\\views\\carts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|c:\\users\\orange\\source\\repos\\project6\\project6\\views\\carts\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\views\\carts\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|solutionrelative:project6\\views\\carts\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|c:\\users\\orange\\source\\repos\\project6\\project6\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|solutionrelative:project6\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|c:\\users\\orange\\source\\repos\\project6\\project6\\views\\users\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\views\\users\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|solutionrelative:project6\\views\\users\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|c:\\users\\orange\\source\\repos\\project6\\project6\\views\\users\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\views\\users\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|solutionrelative:project6\\views\\users\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|c:\\users\\orange\\source\\repos\\project6\\project6\\views\\users\\editprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\views\\users\\editprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|solutionrelative:project6\\views\\users\\editprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|c:\\users\\orange\\source\\repos\\project6\\project6\\views\\users\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\views\\users\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|solutionrelative:project6\\views\\users\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|c:\\users\\orange\\source\\repos\\project6\\project6\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|solutionrelative:project6\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|C:\\Users\\Orange\\source\\repos\\project6\\project6\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "AbsoluteMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
       "RelativeMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|solutionrelative:project6\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|c:\\users\\orange\\source\\repos\\project6\\project6\\views\\users\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\views\\users\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|solutionrelative:project6\\views\\users\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|C:\\Users\\Orange\\source\\repos\\project6\\project6\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|solutionrelative:project6\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|C:\\Users\\Orange\\source\\repos\\project6\\project6\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|solutionrelative:project6\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|c:\\users\\orange\\source\\repos\\project6\\project6\\views\\orderhistory\\orderhistory1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\views\\orderhistory\\orderhistory1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|solutionrelative:project6\\views\\orderhistory\\orderhistory1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|c:\\users\\orange\\source\\repos\\project6\\project6\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|solutionrelative:project6\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|C:\\Users\\Orange\\source\\repos\\project6\\project6\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|solutionrelative:project6\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|c:\\users\\orange\\source\\repos\\project6\\project6\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|solutionrelative:project6\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|C:\\Users\\Orange\\source\\repos\\project6\\project6\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|solutionrelative:project6\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|C:\\Users\\Orange\\source\\repos\\project6\\project6\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|solutionrelative:project6\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|C:\\Users\\Orange\\source\\repos\\project6\\project6\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|solutionrelative:project6\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|C:\\Users\\Orange\\source\\repos\\project6\\project6\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|solutionrelative:project6\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|C:\\Users\\Orange\\source\\repos\\project6\\project6\\content\\fonts\\icomoon\\demo-files\\demo.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\content\\fonts\\icomoon\\demo-files\\demo.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|solutionrelative:project6\\content\\fonts\\icomoon\\demo-files\\demo.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|C:\\Users\\Orange\\source\\repos\\project6\\project6\\content\\fonts\\icomoon\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\content\\fonts\\icomoon\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|solutionrelative:project6\\content\\fonts\\icomoon\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|C:\\Users\\Orange\\source\\repos\\project6\\project6\\content\\css\\bootstrap\\bootstrap-grid.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\content\\css\\bootstrap\\bootstrap-grid.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|solutionrelative:project6\\content\\css\\bootstrap\\bootstrap-grid.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|C:\\Users\\Orange\\source\\repos\\project6\\project6\\content\\css\\bootstrap\\bootstrap-reboot.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\content\\css\\bootstrap\\bootstrap-reboot.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|solutionrelative:project6\\content\\css\\bootstrap\\bootstrap-reboot.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|C:\\Users\\Orange\\source\\repos\\project6\\project6\\content\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\content\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|solutionrelative:project6\\content\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|C:\\Users\\Orange\\source\\repos\\project6\\project6\\content\\css\\owl.theme.default.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\content\\css\\owl.theme.default.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|solutionrelative:project6\\content\\css\\owl.theme.default.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|C:\\Users\\Orange\\source\\repos\\project6\\project6\\content\\css\\owl.carousel.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\content\\css\\owl.carousel.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|solutionrelative:project6\\content\\css\\owl.carousel.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|C:\\Users\\Orange\\source\\repos\\project6\\project6\\content\\css\\magnific-popup.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\content\\css\\magnific-popup.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|solutionrelative:project6\\content\\css\\magnific-popup.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|C:\\Users\\Orange\\source\\repos\\project6\\project6\\content\\css\\jquery-ui.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\content\\css\\jquery-ui.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|solutionrelative:project6\\content\\css\\jquery-ui.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|C:\\Users\\Orange\\source\\repos\\project6\\project6\\content\\css\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\content\\css\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|solutionrelative:project6\\content\\css\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|C:\\Users\\Orange\\source\\repos\\project6\\project6\\content\\css\\aos.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\content\\css\\aos.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|solutionrelative:project6\\content\\css\\aos.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|C:\\Users\\Orange\\source\\repos\\project6\\project6\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB658551-09EE-4933-9139-D76EDD849BB4}|project6\\project6.csproj|solutionrelative:project6\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -200,43 +200,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "UsersController.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\project6\\project6\\Controllers\\UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "project6\\Controllers\\UsersController.cs",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\project6\\project6\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\Controllers\\UsersController.cs",
               "RelativeToolTip": "project6\\Controllers\\UsersController.cs",
               "ViewState": "AQIAACMAAAAAAAAAAAAlwCYAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-17T02:56:18.125Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-17T02:56:18.125Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\project6\\project6\\Views\\Products\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\Views\\Products\\Create.cshtml",
               "RelativeDocumentMoniker": "project6\\Views\\Products\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\project6\\project6\\Views\\Products\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\Views\\Products\\Create.cshtml",
               "RelativeToolTip": "project6\\Views\\Products\\Create.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-17T04:57:16.996Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-17T04:57:16.996Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\project6\\project6\\Views\\Carts\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\Views\\Carts\\Index.cshtml",
               "RelativeDocumentMoniker": "project6\\Views\\Carts\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\project6\\project6\\Views\\Carts\\Index.cshtml*",
-              "RelativeToolTip": "project6\\Views\\Carts\\Index.cshtml*",
-              "ViewState": "AQIAACwAAAAAAAAAAAAIwE8AAAAAAAAA",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\Views\\Carts\\Index.cshtml",
+              "RelativeToolTip": "project6\\Views\\Carts\\Index.cshtml",
+              "ViewState": "AQIAACwAAAAAAAAAAAAIwDoAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-08-17T08:43:15.072Z",
               "EditorCaption": ""
@@ -245,50 +243,47 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "ProductsController.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\project6\\project6\\Controllers\\ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "project6\\Controllers\\ProductsController.cs",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\project6\\project6\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\Controllers\\ProductsController.cs",
               "RelativeToolTip": "project6\\Controllers\\ProductsController.cs",
               "ViewState": "AQIAAA8AAAAAAAAAAAAwwB8AAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-17T02:57:17.357Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-17T02:57:17.357Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "CategoriesController.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\project6\\project6\\Controllers\\CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\Controllers\\CategoriesController.cs",
               "RelativeDocumentMoniker": "project6\\Controllers\\CategoriesController.cs",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\project6\\project6\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\Controllers\\CategoriesController.cs",
               "RelativeToolTip": "project6\\Controllers\\CategoriesController.cs",
               "ViewState": "AQIAAEgAAAAAAAAAAAAowFQAAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-17T02:57:39.958Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\project6\\project6\\Views\\Categories\\Index.cshtml",
-              "RelativeDocumentMoniker": "project6\\Views\\Categories\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\project6\\project6\\Views\\Categories\\Index.cshtml",
-              "RelativeToolTip": "project6\\Views\\Categories\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA+AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-17T03:16:13.977Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-17T02:57:39.958Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\Views\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "project6\\Views\\Categories\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\Views\\Categories\\Index.cshtml",
+              "RelativeToolTip": "project6\\Views\\Categories\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T03:16:13.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\project6\\project6\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "project6\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\project6\\project6\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "project6\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAPkAAAAAAAAAAAAAAJEAAAAfAAAA",
+              "ViewState": "AQIAAMAAAAAAAAAAAAAewMkAAABvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-08-17T03:04:03.697Z",
               "EditorCaption": ""
@@ -297,294 +292,272 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "CartsController.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\project6\\project6\\Controllers\\CartsController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\Controllers\\CartsController.cs",
               "RelativeDocumentMoniker": "project6\\Controllers\\CartsController.cs",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\project6\\project6\\Controllers\\CartsController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\Controllers\\CartsController.cs",
               "RelativeToolTip": "project6\\Controllers\\CartsController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAJ8AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-17T08:43:06.948Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-17T08:43:06.948Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\project6\\project6\\Views\\Products\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\Views\\Products\\Index.cshtml",
               "RelativeDocumentMoniker": "project6\\Views\\Products\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\project6\\project6\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\Views\\Products\\Index.cshtml",
               "RelativeToolTip": "project6\\Views\\Products\\Index.cshtml",
               "ViewState": "AQIAABYAAAAAAAAAAAAqwBwAAABSAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-17T03:06:10.718Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-17T03:06:10.718Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\project6\\project6\\Views\\Products\\Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\Views\\Products\\Delete.cshtml",
               "RelativeDocumentMoniker": "project6\\Views\\Products\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\project6\\project6\\Views\\Products\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\Views\\Products\\Delete.cshtml",
               "RelativeToolTip": "project6\\Views\\Products\\Delete.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-17T08:37:38.33Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-17T08:37:38.33Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "OrderHistory.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\project6\\project6\\Views\\OrderHistory\\OrderHistory.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\Views\\OrderHistory\\OrderHistory.cshtml",
               "RelativeDocumentMoniker": "project6\\Views\\OrderHistory\\OrderHistory.cshtml",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\project6\\project6\\Views\\OrderHistory\\OrderHistory.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\Views\\OrderHistory\\OrderHistory.cshtml",
               "RelativeToolTip": "project6\\Views\\OrderHistory\\OrderHistory.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-17T23:39:49.226Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-17T23:39:49.226Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\project6\\project6\\Views\\Products\\Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\Views\\Products\\Details.cshtml",
               "RelativeDocumentMoniker": "project6\\Views\\Products\\Details.cshtml",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\project6\\project6\\Views\\Products\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\Views\\Products\\Details.cshtml",
               "RelativeToolTip": "project6\\Views\\Products\\Details.cshtml",
               "ViewState": "AQIAABYAAAAAAAAAAAAAwDAAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-17T07:56:45.603Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-17T07:56:45.603Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\project6\\project6\\Views\\Carts\\Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\Views\\Carts\\Edit.cshtml",
               "RelativeDocumentMoniker": "project6\\Views\\Carts\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\project6\\project6\\Views\\Carts\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\Views\\Carts\\Edit.cshtml",
               "RelativeToolTip": "project6\\Views\\Carts\\Edit.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-17T09:14:22.006Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-17T09:14:22.006Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "OrderHistoryController.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\project6\\project6\\Controllers\\OrderHistoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\Controllers\\OrderHistoryController.cs",
               "RelativeDocumentMoniker": "project6\\Controllers\\OrderHistoryController.cs",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\project6\\project6\\Controllers\\OrderHistoryController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\Controllers\\OrderHistoryController.cs",
               "RelativeToolTip": "project6\\Controllers\\OrderHistoryController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-17T23:36:40.649Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-17T23:36:40.649Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\project6\\project6\\Views\\Carts\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\Views\\Carts\\Create.cshtml",
               "RelativeDocumentMoniker": "project6\\Views\\Carts\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\project6\\project6\\Views\\Carts\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\Views\\Carts\\Create.cshtml",
               "RelativeToolTip": "project6\\Views\\Carts\\Create.cshtml",
               "ViewState": "AQIAAB4AAAAAAAAAAAAiwC4AAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-17T19:01:33.545Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-17T19:01:33.545Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\project6\\project6\\Views\\Carts\\Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\Views\\Carts\\Delete.cshtml",
               "RelativeDocumentMoniker": "project6\\Views\\Carts\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\project6\\project6\\Views\\Carts\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\Views\\Carts\\Delete.cshtml",
               "RelativeToolTip": "project6\\Views\\Carts\\Delete.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-18T22:42:28.377Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-18T22:42:28.377Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "BundleConfig.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\project6\\project6\\App_Start\\BundleConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\App_Start\\BundleConfig.cs",
               "RelativeDocumentMoniker": "project6\\App_Start\\BundleConfig.cs",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\project6\\project6\\App_Start\\BundleConfig.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\App_Start\\BundleConfig.cs",
               "RelativeToolTip": "project6\\App_Start\\BundleConfig.cs",
               "ViewState": "AQIAACEAAAAAAAAAAAAIwCYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-17T03:54:03.205Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-17T03:54:03.205Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\project6\\project6\\Views\\Users\\Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\Views\\Users\\Register.cshtml",
               "RelativeDocumentMoniker": "project6\\Views\\Users\\Register.cshtml",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\project6\\project6\\Views\\Users\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\Views\\Users\\Register.cshtml",
               "RelativeToolTip": "project6\\Views\\Users\\Register.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-17T09:02:03.446Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-17T09:02:03.446Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 20,
               "Title": "Profile.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\project6\\project6\\Views\\Users\\Profile.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\Views\\Users\\Profile.cshtml",
               "RelativeDocumentMoniker": "project6\\Views\\Users\\Profile.cshtml",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\project6\\project6\\Views\\Users\\Profile.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\Views\\Users\\Profile.cshtml",
               "RelativeToolTip": "project6\\Views\\Users\\Profile.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAFQAAABFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-17T09:28:42.761Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-17T09:28:42.761Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 18,
               "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\project6\\project6\\Views\\Users\\Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\Views\\Users\\Details.cshtml",
               "RelativeDocumentMoniker": "project6\\Views\\Users\\Details.cshtml",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\project6\\project6\\Views\\Users\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\Views\\Users\\Details.cshtml",
               "RelativeToolTip": "project6\\Views\\Users\\Details.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-18T22:10:43.293Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-18T22:10:43.293Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 21,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\project6\\project6\\Views\\Categories\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\Views\\Categories\\Create.cshtml",
               "RelativeDocumentMoniker": "project6\\Views\\Categories\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\project6\\project6\\Views\\Categories\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\Views\\Categories\\Create.cshtml",
               "RelativeToolTip": "project6\\Views\\Categories\\Create.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-17T19:48:36.964Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-17T19:48:36.964Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
               "Title": "EditProfile.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\project6\\project6\\Views\\Users\\EditProfile.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\Views\\Users\\EditProfile.cshtml",
               "RelativeDocumentMoniker": "project6\\Views\\Users\\EditProfile.cshtml",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\project6\\project6\\Views\\Users\\EditProfile.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\Views\\Users\\EditProfile.cshtml",
               "RelativeToolTip": "project6\\Views\\Users\\EditProfile.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-18T20:29:19.057Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-18T20:29:19.057Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 22,
               "Title": "Model1.edmx [Diagram1]",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\project6\\project6\\Models\\Model1.edmx",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\Models\\Model1.edmx",
               "RelativeDocumentMoniker": "project6\\Models\\Model1.edmx",
               "ToolTip": "C:\\Users\\Orange\\source\\repos\\project6\\project6\\Models\\Model1.edmx [Diagram1]",
-              "RelativeToolTip": "project6\\Models\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\project6\\project6\\Models\\Model1.edmx [Diagram1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
-              "WhenOpened": "2024-08-17T02:52:53.916Z",
-              "EditorCaption": " [Diagram1]"
+              "WhenOpened": "2024-08-17T02:52:53.916Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 23,
               "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\project6\\project6\\Views\\Users\\Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\Views\\Users\\Login.cshtml",
               "RelativeDocumentMoniker": "project6\\Views\\Users\\Login.cshtml",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\project6\\project6\\Views\\Users\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\Views\\Users\\Login.cshtml",
               "RelativeToolTip": "project6\\Views\\Users\\Login.cshtml",
               "ViewState": "AQIAACcAAAAAAAAAAAAAAEEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-17T09:13:12.495Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-17T09:13:12.495Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 25,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\project6\\project6\\Views\\Users\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\Views\\Users\\Index.cshtml",
               "RelativeDocumentMoniker": "project6\\Views\\Users\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\project6\\project6\\Views\\Users\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\Views\\Users\\Index.cshtml",
               "RelativeToolTip": "project6\\Views\\Users\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-17T04:17:01.919Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-17T04:17:01.919Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 24,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\project6\\project6\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "project6\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\project6\\project6\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "project6\\Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-17T03:33:36.599Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-17T03:33:36.599Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 26,
               "Title": "OrderHistory1.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\project6\\project6\\Views\\OrderHistory\\OrderHistory1.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\Views\\OrderHistory\\OrderHistory1.cshtml",
               "RelativeDocumentMoniker": "project6\\Views\\OrderHistory\\OrderHistory1.cshtml",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\project6\\project6\\Views\\OrderHistory\\OrderHistory1.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\Views\\OrderHistory\\OrderHistory1.cshtml",
               "RelativeToolTip": "project6\\Views\\OrderHistory\\OrderHistory1.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-17T23:59:10.544Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-17T23:59:10.544Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 27,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\project6\\project6\\Views\\Users\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\Views\\Users\\Create.cshtml",
               "RelativeDocumentMoniker": "project6\\Views\\Users\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\project6\\project6\\Views\\Users\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\Views\\Users\\Create.cshtml",
               "RelativeToolTip": "project6\\Views\\Users\\Create.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-17T08:49:24.601Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-17T08:49:24.601Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 28,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\project6\\project6\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "project6\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\project6\\project6\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\Controllers\\HomeController.cs",
               "RelativeToolTip": "project6\\Controllers\\HomeController.cs",
               "ViewState": "AQIAAAEAAAAAAAAAAAAswBEAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-17T02:59:10.857Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-17T02:59:10.857Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 31,
               "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\project6\\project6\\Views\\_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "project6\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\project6\\project6\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\Views\\_ViewStart.cshtml",
               "RelativeToolTip": "project6\\Views\\_ViewStart.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -594,35 +567,33 @@
               "$type": "Document",
               "DocumentIndex": 29,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\project6\\project6\\Views\\Categories\\Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\Views\\Categories\\Edit.cshtml",
               "RelativeDocumentMoniker": "project6\\Views\\Categories\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\project6\\project6\\Views\\Categories\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\Views\\Categories\\Edit.cshtml",
               "RelativeToolTip": "project6\\Views\\Categories\\Edit.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-17T07:08:43.714Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-17T07:08:43.714Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 30,
               "Title": "RouteConfig.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\project6\\project6\\App_Start\\RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\App_Start\\RouteConfig.cs",
               "RelativeDocumentMoniker": "project6\\App_Start\\RouteConfig.cs",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\project6\\project6\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\App_Start\\RouteConfig.cs",
               "RelativeToolTip": "project6\\App_Start\\RouteConfig.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAAxwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-17T03:53:59.341Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-17T03:53:59.341Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 32,
               "Title": "Contact.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\project6\\project6\\Views\\Home\\Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\Views\\Home\\Contact.cshtml",
               "RelativeDocumentMoniker": "project6\\Views\\Home\\Contact.cshtml",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\project6\\project6\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\Views\\Home\\Contact.cshtml",
               "RelativeToolTip": "project6\\Views\\Home\\Contact.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -632,9 +603,9 @@
               "$type": "Document",
               "DocumentIndex": 41,
               "Title": "magnific-popup.css",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\project6\\project6\\Content\\css\\magnific-popup.css",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\Content\\css\\magnific-popup.css",
               "RelativeDocumentMoniker": "project6\\Content\\css\\magnific-popup.css",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\project6\\project6\\Content\\css\\magnific-popup.css",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\Content\\css\\magnific-popup.css",
               "RelativeToolTip": "project6\\Content\\css\\magnific-popup.css",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -644,9 +615,9 @@
               "$type": "Document",
               "DocumentIndex": 33,
               "Title": "About.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\project6\\project6\\Views\\Home\\About.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\Views\\Home\\About.cshtml",
               "RelativeDocumentMoniker": "project6\\Views\\Home\\About.cshtml",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\project6\\project6\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\Views\\Home\\About.cshtml",
               "RelativeToolTip": "project6\\Views\\Home\\About.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -656,9 +627,9 @@
               "$type": "Document",
               "DocumentIndex": 39,
               "Title": "owl.theme.default.min.css",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\project6\\project6\\Content\\css\\owl.theme.default.min.css",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\Content\\css\\owl.theme.default.min.css",
               "RelativeDocumentMoniker": "project6\\Content\\css\\owl.theme.default.min.css",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\project6\\project6\\Content\\css\\owl.theme.default.min.css",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\Content\\css\\owl.theme.default.min.css",
               "RelativeToolTip": "project6\\Content\\css\\owl.theme.default.min.css",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -668,9 +639,9 @@
               "$type": "Document",
               "DocumentIndex": 40,
               "Title": "owl.carousel.min.css",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\project6\\project6\\Content\\css\\owl.carousel.min.css",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\Content\\css\\owl.carousel.min.css",
               "RelativeDocumentMoniker": "project6\\Content\\css\\owl.carousel.min.css",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\project6\\project6\\Content\\css\\owl.carousel.min.css",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\Content\\css\\owl.carousel.min.css",
               "RelativeToolTip": "project6\\Content\\css\\owl.carousel.min.css",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -680,9 +651,9 @@
               "$type": "Document",
               "DocumentIndex": 34,
               "Title": "demo.css",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\project6\\project6\\Content\\fonts\\icomoon\\demo-files\\demo.css",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\Content\\fonts\\icomoon\\demo-files\\demo.css",
               "RelativeDocumentMoniker": "project6\\Content\\fonts\\icomoon\\demo-files\\demo.css",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\project6\\project6\\Content\\fonts\\icomoon\\demo-files\\demo.css",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\Content\\fonts\\icomoon\\demo-files\\demo.css",
               "RelativeToolTip": "project6\\Content\\fonts\\icomoon\\demo-files\\demo.css",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -692,9 +663,9 @@
               "$type": "Document",
               "DocumentIndex": 35,
               "Title": "style.css",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\project6\\project6\\Content\\fonts\\icomoon\\style.css",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\Content\\fonts\\icomoon\\style.css",
               "RelativeDocumentMoniker": "project6\\Content\\fonts\\icomoon\\style.css",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\project6\\project6\\Content\\fonts\\icomoon\\style.css",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\Content\\fonts\\icomoon\\style.css",
               "RelativeToolTip": "project6\\Content\\fonts\\icomoon\\style.css",
               "ViewState": "AQIAAKACAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -704,9 +675,9 @@
               "$type": "Document",
               "DocumentIndex": 38,
               "Title": "style.css",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\project6\\project6\\Content\\css\\style.css",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\Content\\css\\style.css",
               "RelativeDocumentMoniker": "project6\\Content\\css\\style.css",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\project6\\project6\\Content\\css\\style.css",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\Content\\css\\style.css",
               "RelativeToolTip": "project6\\Content\\css\\style.css",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -716,9 +687,9 @@
               "$type": "Document",
               "DocumentIndex": 37,
               "Title": "bootstrap-reboot.css",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\project6\\project6\\Content\\css\\bootstrap\\bootstrap-reboot.css",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\Content\\css\\bootstrap\\bootstrap-reboot.css",
               "RelativeDocumentMoniker": "project6\\Content\\css\\bootstrap\\bootstrap-reboot.css",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\project6\\project6\\Content\\css\\bootstrap\\bootstrap-reboot.css",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\Content\\css\\bootstrap\\bootstrap-reboot.css",
               "RelativeToolTip": "project6\\Content\\css\\bootstrap\\bootstrap-reboot.css",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -728,9 +699,9 @@
               "$type": "Document",
               "DocumentIndex": 36,
               "Title": "bootstrap-grid.css",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\project6\\project6\\Content\\css\\bootstrap\\bootstrap-grid.css",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\Content\\css\\bootstrap\\bootstrap-grid.css",
               "RelativeDocumentMoniker": "project6\\Content\\css\\bootstrap\\bootstrap-grid.css",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\project6\\project6\\Content\\css\\bootstrap\\bootstrap-grid.css",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\Content\\css\\bootstrap\\bootstrap-grid.css",
               "RelativeToolTip": "project6\\Content\\css\\bootstrap\\bootstrap-grid.css",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -740,9 +711,9 @@
               "$type": "Document",
               "DocumentIndex": 42,
               "Title": "jquery-ui.css",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\project6\\project6\\Content\\css\\jquery-ui.css",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\Content\\css\\jquery-ui.css",
               "RelativeDocumentMoniker": "project6\\Content\\css\\jquery-ui.css",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\project6\\project6\\Content\\css\\jquery-ui.css",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\Content\\css\\jquery-ui.css",
               "RelativeToolTip": "project6\\Content\\css\\jquery-ui.css",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -752,9 +723,9 @@
               "$type": "Document",
               "DocumentIndex": 43,
               "Title": "bootstrap.min.css",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\project6\\project6\\Content\\css\\bootstrap.min.css",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\Content\\css\\bootstrap.min.css",
               "RelativeDocumentMoniker": "project6\\Content\\css\\bootstrap.min.css",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\project6\\project6\\Content\\css\\bootstrap.min.css",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\Content\\css\\bootstrap.min.css",
               "RelativeToolTip": "project6\\Content\\css\\bootstrap.min.css",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -764,9 +735,9 @@
               "$type": "Document",
               "DocumentIndex": 44,
               "Title": "aos.css",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\project6\\project6\\Content\\css\\aos.css",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\Content\\css\\aos.css",
               "RelativeDocumentMoniker": "project6\\Content\\css\\aos.css",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\project6\\project6\\Content\\css\\aos.css",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\Content\\css\\aos.css",
               "RelativeToolTip": "project6\\Content\\css\\aos.css",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -777,9 +748,9 @@
               "DocumentIndex": 46,
               "Title": "prepros-6.config",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\New folder (11)\\shoppers-gh-pages\\prepros-6.config",
-              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\New folder (11)\\shoppers-gh-pages\\prepros-6.config",
+              "RelativeDocumentMoniker": "..\\..\\..\\New folder (11)\\shoppers-gh-pages\\prepros-6.config",
               "ToolTip": "C:\\Users\\Orange\\Desktop\\New folder (11)\\shoppers-gh-pages\\prepros-6.config",
-              "RelativeToolTip": "..\\..\\..\\Desktop\\New folder (11)\\shoppers-gh-pages\\prepros-6.config",
+              "RelativeToolTip": "..\\..\\..\\New folder (11)\\shoppers-gh-pages\\prepros-6.config",
               "ViewState": "AQIAAMwAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
               "WhenOpened": "2024-08-17T03:34:49.435Z"
@@ -788,9 +759,9 @@
               "$type": "Document",
               "DocumentIndex": 45,
               "Title": "Global.asax.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\project6\\project6\\Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\Global.asax.cs",
               "RelativeDocumentMoniker": "project6\\Global.asax.cs",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\project6\\project6\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\project(6)\\Project6\\project6\\project6\\Global.asax.cs",
               "RelativeToolTip": "project6\\Global.asax.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -801,9 +772,9 @@
               "DocumentIndex": 47,
               "Title": "Status.cs",
               "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\e-commerce-project-main\\e-commerce-project-main\\Constants\\Status.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\e-commerce-project-main\\e-commerce-project-main\\Constants\\Status.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\e-commerce-project-main\\e-commerce-project-main\\Constants\\Status.cs",
               "ToolTip": "C:\\Users\\Orange\\Downloads\\e-commerce-project-main\\e-commerce-project-main\\Constants\\Status.cs",
-              "RelativeToolTip": "..\\..\\..\\Downloads\\e-commerce-project-main\\e-commerce-project-main\\Constants\\Status.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\e-commerce-project-main\\e-commerce-project-main\\Constants\\Status.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-17T03:07:08.919Z"
